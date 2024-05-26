@@ -1,0 +1,17 @@
+/*? global clearing */
+*,
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.intro {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+.logo {
+    width: 150px;
+}
